@@ -58,7 +58,7 @@ section{
     border-image: linear-gradient(blueviolet);
     border-image-slice: 1;
 }
-#biggener{
+#biginner{
     border-left: 7px rgb(27, 27, 104);
     border-image: linear-gradient(rgb(34, 135, 218));
     border-image-slice: 1;
